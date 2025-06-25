@@ -9,7 +9,7 @@ This is my solution to the [Single Price Grid Component challenge on Frontend Me
 
 ## 🔗 Links
 
-- Live Site URL: [Add your live site URL here](https://your-live-site.com)
+- Live Site URL: (https://genesiswaye.github.io/Challenges-from-frontend-mentor/))
 
 ## 🚀 Overview
 
@@ -59,8 +59,7 @@ The page was styled using a mobile-first approach with relative units and a comb
 
 ## 👤 Author
 
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter – [@yourusername](https://twitter.com/yourusername)
+- Frontend Mentor – [@genesiswaye](https://www.frontendmentor.io/profile/genesiswaye)
 
 ---
 
