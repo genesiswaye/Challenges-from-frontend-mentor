@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Single Price Grid Component
 
 This is my solution to the [Single Price Grid Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
@@ -63,3 +64,6 @@ The page was styled using a mobile-first approach with relative units and a comb
 
 ---
 
+=======
+# Challenges-from-frontend-mentor
+>>>>>>> 163c300589ab16a94d945212de9b4b4fcba56b11
